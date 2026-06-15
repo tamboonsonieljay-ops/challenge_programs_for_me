@@ -6,4 +6,4 @@ while even_number <= 100:
     print(even_number)
     even_number += 2
 
-print("\nThat was a hard one ;)")
+print("\n....that was a hard one ;)")
